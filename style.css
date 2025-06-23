@@ -1,0 +1,115 @@
+.section-one__title{
+    padding-top: 3px;
+    margin-bottom: 10px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+   
+}
+.section-one__head{
+    background-color: black;
+    color:gray;
+    display: inline-block;
+    display: flex;
+    padding-left: 550px;
+}
+.section-one__option1{
+    margin-left: 20px;
+}
+.section-one__option2{
+    margin-right: 40px;
+}
+
+ .section-one__head li{
+    list-style: none;
+    color: gray;
+    
+ }
+ .section-two__elem{
+    height: 300px;
+    width: 250;
+    margin-right: 5px;
+    display: inline-block;
+   
+    
+}
+.section-two{
+    margin-top: 15px;
+    padding-left:200px;
+    display: inline-block;
+    display: flex;
+    text-align: center;
+   
+}
+.container{
+    padding: 50px;
+}
+.section-three{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+
+    
+}
+.section-three__desc{
+    text-align: center;
+    padding-left: 500px;
+
+}
+.section-three__send{
+ 
+ background-color:yellow;
+
+ width: 350px;
+margin-left:450px;
+ color: black;
+ text-align: center;
+ 
+}
+.one{
+    border: solid black 2px;
+    width: 200px;
+    height: 480px;
+    margin-right: 10px;
+    
+
+}
+.two{
+    border: solid black 2px;
+    width: 200px;
+    height: 480px;
+    margin-right: 10px;
+    
+
+}
+.the{
+    border: solid black 2px;
+    width: 200px;
+    height: 480px;
+    margin-right: 10px;
+    
+
+}
+.four{
+    border: solid black 2px;
+    width: 210px;
+    height: 480px;
+   
+    margin-right: 10px;
+}
+.button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 15px;
+    padding-bottom: 2px;
+    padding: 9px;
+
+}
