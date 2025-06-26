@@ -15,7 +15,7 @@
     color:gray;
     display: inline-block;
     display: flex;
-    padding-left: 550px;
+    padding-left: 660px;
 }
 .section-one__option1{
     margin-left: 20px;
@@ -39,7 +39,7 @@
 }
 .section-two{
     margin-top: 15px;
-    padding-left:200px;
+    padding-left:310px;
     display: inline-block;
     display: flex;
     text-align: center;
@@ -60,7 +60,7 @@
 }
 .section-three__desc{
     text-align: center;
-    padding-left: 500px;
+    padding-left: 600px;
 
 }
 .section-three__send{
@@ -68,7 +68,7 @@
  background-color:yellow;
 
  width: 350px;
-margin-left:450px;
+margin-left:550px;
  color: black;
  text-align: center;
  
